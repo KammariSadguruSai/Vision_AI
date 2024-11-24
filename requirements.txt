@@ -51,3 +51,4 @@ langchain
 google-auth
 gemini-api
 pyttsx3
+google.generativeai
